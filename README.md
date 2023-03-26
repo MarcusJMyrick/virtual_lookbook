@@ -7,3 +7,4 @@
  1. As you work, remember to navigate to `/git` and **commit often as you work.**
 
 
+BOOM this is it now that I have done it 
